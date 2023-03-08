@@ -1,4 +1,4 @@
-package com.ducway.framework.modular.zmxzApplication.controller.utils;
+package utils;
 
 import java.io.File;
 
