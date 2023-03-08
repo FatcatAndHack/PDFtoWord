@@ -1,4 +1,4 @@
-package com.ducway.framework.modular.zmxzApplication.controller.utils;
+package utils;
 
 import com.spire.pdf.FileFormat;
 import com.spire.pdf.PdfDocument;
